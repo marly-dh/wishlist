@@ -68,8 +68,6 @@ class ListItemController extends Controller
 
     public function destroy($item)
     {
-        dd($item);
-
         $item = ListItem::find($item);
 
         $item->delete();

@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\ListItemController;
+use App\Models\ListItem;
 
 /*
 |--------------------------------------------------------------------------
@@ -17,11 +18,13 @@ use App\Http\Controllers\ListItemController;
 Route::resource('list', ListItemController::class);
 
 Route::get('/', function () {
-    return view('welcome');
+    $items = ListItem::all();
+
+    return view('welcome', compact('items'));
 });
 
 Route::get('/dashboard', function () {
-    return view('dashboard');
+    return redirect('list');
 })->middleware(['auth'])->name('dashboard');
 
 require __DIR__.'/auth.php';

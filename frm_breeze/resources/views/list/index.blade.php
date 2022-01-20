@@ -53,7 +53,7 @@
                                             {{ $item->price }}
                                         </td>
                                         <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-500">
-                                            {{ $item->url }}
+                                            <a href="{{ $item->url }}" class="text-indigo-600 hover:text-indigo-900">Shopping Link</a>
                                         </td>
                                         <td class="px-6 py-4 whitespace-nowrap text-right text-sm font-medium">
                                             <a href="{{ route('list.edit', $item->id) }}" class="text-indigo-600 hover:text-indigo-900">Edit</a>
@@ -67,7 +67,14 @@
                         </div>
                     </div>
                 </div>
+            </div>
 
+            <div class="flex justify-end">
+                <a href="{{ route('list.create') }}">
+                    <x-button class="mt-4">
+                        {{ __('add product') }}
+                    </x-button>
+                </a>
             </div>
         </div>
     </div>

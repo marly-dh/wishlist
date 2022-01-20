@@ -38,11 +38,14 @@
                             {{ __('Update') }}
                         </x-button>
 
-                        <a href="{{ route('list.destroy', $item->id) }}">
+                        <form method="POST" action="{{ route('list.destroy', $item->id) }}">
+                            @csrf
+                            @method('DELETE')
+
                             <x-button-delete>
                                 {{ __('Delete') }}
                             </x-button-delete>
-                        </a>
+                        </form>
                     </form>
                 </div>
             </div>

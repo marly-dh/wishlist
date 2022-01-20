@@ -32,6 +32,14 @@
   <component name="ChangeListManager">
     <list default="true" id="4cd006e8-065d-4937-8312-8f7715eadc82" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frm_breeze/app/Http/Controllers/ListItemController.php" beforeDir="false" afterPath="$PROJECT_DIR$/frm_breeze/app/Http/Controllers/ListItemController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frm_breeze/resources/views/components/button-delete.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/frm_breeze/resources/views/components/button-delete.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frm_breeze/resources/views/layouts/navigation.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/frm_breeze/resources/views/layouts/navigation.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frm_breeze/resources/views/list/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/frm_breeze/resources/views/list/create.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frm_breeze/resources/views/list/edit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/frm_breeze/resources/views/list/edit.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frm_breeze/resources/views/list/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/frm_breeze/resources/views/list/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frm_breeze/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/frm_breeze/resources/views/welcome.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frm_breeze/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/frm_breeze/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,7 +181,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../../xampp/htdocs/stage-projecten/marly 10-12-20" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="SvnConfiguration">
@@ -192,6 +200,7 @@
       <workItem from="1642408349654" duration="774000" />
       <workItem from="1642418544441" duration="1049000" />
       <workItem from="1642500703121" duration="23000" />
+      <workItem from="1642672834200" duration="4938000" />
     </task>
     <servers />
   </component>
