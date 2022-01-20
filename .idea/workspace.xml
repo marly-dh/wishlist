@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4cd006e8-065d-4937-8312-8f7715eadc82" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/frm_breeze/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/laravel/serializable-closure" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/laravel/sail" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/laravel/sanctum" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/laravel/breeze" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/dflydev/dot-access-data" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/league/config" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/facade/flare-client-php" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/nette/schema" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/nette/utils" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/composer" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/fruitcake/laravel-cors" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/fakerphp/faker" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/symfony/polyfill-php81" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/frm_breeze/vendor/symfony/polyfill-php72" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="20JaGwSQiUqG0DoJvrVcWs1djsn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../../xampp/htdocs/stage-projecten/marly 10-12-20" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4cd006e8-065d-4937-8312-8f7715eadc82" name="Default Changelist" comment="" />
+      <created>1635765051519</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635765051519</updated>
+      <workItem from="1635765053094" duration="1085000" />
+      <workItem from="1635776595893" duration="682000" />
+      <workItem from="1642066332574" duration="4003000" />
+      <workItem from="1642408349654" duration="774000" />
+      <workItem from="1642418544441" duration="1049000" />
+      <workItem from="1642500703121" duration="23000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1642500724512">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1642500724512" />
+  </component>
+</project>
