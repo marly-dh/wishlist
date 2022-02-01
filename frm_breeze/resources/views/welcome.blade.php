@@ -34,7 +34,7 @@
     <div class="min-h-screen bg-gray-100 flex items-center">
             @if (Route::has('login'))
                 <div class="hidden fixed top-0 right-0 px-6 py-4 sm:block">
-                    @auth\\\\\\\\\\\\\\\\\\\\\\
+                    @auth
                         <a href="{{ url('/dashboard') }}" class="text-sm text-gray-700 underline">Dashboard</a>
                     @else
                         <a href="{{ route('login') }}" class="text-sm text-gray-700 underline">Log in</a>
@@ -91,9 +91,10 @@
                                                 {{ $item->price }}
                                             </td>
                                             <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-500">
-                                                <a href="{{ $item->url }}" class="text-indigo-600 hover:text-indigo-900">Shopping Link</a>
+                                                <a target="_blank" href="{{ $item->url }}" class="text-indigo-600 hover:text-indigo-900">Shopping Link</a>
                                             </td>
                                             <td class="px-6 py-4 whitespace-nowrap text-right text-sm font-medium">
+                                                <a href="{{ route('list.show', $item->id) }}" class="text-indigo-600 hover:text-indigo-900">Show</a>
                                             </td>
                                         </tr>
                                     @endforeach

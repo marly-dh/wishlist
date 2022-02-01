@@ -23,7 +23,7 @@
                         </div>
                         <div>
                             <x-label for="price" :value="__('Price')" />
-                            <x-input id="price" class="block mt-1 w-full mb-5" type="number" name="price" value="{{ $item->price }}"/>
+                            <x-input id="price" class="block mt-1 w-full mb-5" type="number" name="price" step="0.01" value="{{ $item->price }}"/>
                         </div>
                         <div>
                             <x-label for="img" :value="__('Image url')" />
@@ -38,14 +38,14 @@
                             {{ __('Update') }}
                         </x-button>
 
-                        <form method="POST" action="{{ route('list.destroy', $item->id) }}">
-                            @csrf
-                            @method('DELETE')
 
-                            <x-button-delete>
-                                {{ __('Delete') }}
-                            </x-button-delete>
-                        </form>
+                    </form>
+                    <form method="POST" action="{{ route('list.destroy', $item->id) }}" class="mt-3">
+                        @csrf
+                        @method('DELETE')
+                        <x-button-delete>
+                            {{ __('Delete') }}
+                        </x-button-delete>
                     </form>
                 </div>
             </div>
